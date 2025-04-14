@@ -38,3 +38,47 @@
 
 <!-- enlace a una imagen externa -->
 <img src="https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png" alt="Imagen" width="100"/>
+
+## Tablas
+
+| Nombre     | Edad | Ciudad     |
+|------------|------|------------|
+| Emiliano   | 43   | Teruel     |
+| Julio      | 31   | Barcelona  |
+| Gema       | 29   | Valencia   |
+| Salva      | 39   | Valencia   |
+
+## Bloques de código
+
+```java
+public class EstructuraRepetitivaFor1 {
+    public static void main(String[] ar) {
+        int f;
+        for(f=1;f<=100;f++) {
+            System.out.print(f);
+            System.out.print("-");
+        }
+    }
+}
+```
+
+```javascript
+let vec = new Array(10);
+      for (let f = 0; f < vec.length; f++) {
+          vec[f] = parseInt(Math.random() * 1001);
+      }
+      let cadena = vec.toString();
+      document.write(cadena);
+```
+
+## Tareas pendientes
+
+- [x] Tarea completada :tada:
+- [ ] Tarea pendiente  
+
+- [x] Base Datos
+- [ ] Diagrama Casos Uso
+
+## Emojis
+
+:dog: :smile: :rocket: :+1: :octocat:
