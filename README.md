@@ -5,11 +5,11 @@
 
 ## Índice
 
-- [Integrantes proyecto](#integrantes-del-proyecto)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
-- [Subsistemas](#subsistemas)
-- [Funcionalidades implementadas](#funcionalidades-por-subsistema)
-- [Demostración código java](#demostración-código-java)
+1. [Integrantes proyecto](#integrantes-del-proyecto)
+2. [Tecnologías utilizadas](#tecnologías-utilizadas)
+3. [Subsistemas](#subsistemas)
+4. [Funcionalidades implementadas](#funcionalidades-implementadas-por-subsistema)
+5. [Demostración código java](#demostración-código-java)
 
 ## Integrantes del proyecto
 
@@ -136,4 +136,4 @@ public Instalacion(double id,String tipo, String estado){
 > [!NOTE]
 > Esta aplicación aún se encuentra en desarrollo. Algunas funcionalidades pueden cambiar en el futuro.
 
-##### [Enlace a la web del centro](https://portal.edu.gva.es/iesfontdesantlluis/)
+#### [Enlace a la web del centro](https://portal.edu.gva.es/iesfontdesantlluis/)
